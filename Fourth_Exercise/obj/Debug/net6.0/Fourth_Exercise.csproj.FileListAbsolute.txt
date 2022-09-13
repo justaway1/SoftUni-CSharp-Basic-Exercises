@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\bin\Debug\net6.0\Fourth_Exercise.exe
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\bin\Debug\net6.0\Fourth_Exercise.deps.json
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\bin\Debug\net6.0\Fourth_Exercise.runtimeconfig.json
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\bin\Debug\net6.0\Fourth_Exercise.dll
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\bin\Debug\net6.0\Fourth_Exercise.pdb
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\obj\Debug\net6.0\Fourth_Exercise.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\obj\Debug\net6.0\Fourth_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\obj\Debug\net6.0\Fourth_Exercise.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\obj\Debug\net6.0\Fourth_Exercise.AssemblyInfo.cs
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\obj\Debug\net6.0\Fourth_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\obj\Debug\net6.0\Fourth_Exercise.dll
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\obj\Debug\net6.0\refint\Fourth_Exercise.dll
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\obj\Debug\net6.0\Fourth_Exercise.pdb
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\obj\Debug\net6.0\Fourth_Exercise.genruntimeconfig.cache
+C:\Users\asus\source\repos\SoftUni CSharp Exercises\Fourth_Exercise\obj\Debug\net6.0\ref\Fourth_Exercise.dll
