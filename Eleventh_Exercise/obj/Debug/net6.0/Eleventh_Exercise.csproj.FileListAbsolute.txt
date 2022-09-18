@@ -1,0 +1,15 @@
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\obj\Debug\net6.0\Eleventh_Exercise.csproj.AssemblyReference.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\obj\Debug\net6.0\Eleventh_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\obj\Debug\net6.0\Eleventh_Exercise.AssemblyInfoInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\obj\Debug\net6.0\Eleventh_Exercise.AssemblyInfo.cs
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\obj\Debug\net6.0\Eleventh_Exercise.csproj.CoreCompileInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\bin\Debug\net6.0\Eleventh_Exercise.exe
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\bin\Debug\net6.0\Eleventh_Exercise.deps.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\bin\Debug\net6.0\Eleventh_Exercise.runtimeconfig.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\bin\Debug\net6.0\Eleventh_Exercise.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\bin\Debug\net6.0\Eleventh_Exercise.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\obj\Debug\net6.0\Eleventh_Exercise.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\obj\Debug\net6.0\refint\Eleventh_Exercise.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\obj\Debug\net6.0\Eleventh_Exercise.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\obj\Debug\net6.0\Eleventh_Exercise.genruntimeconfig.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Eleventh_Exercise\obj\Debug\net6.0\ref\Eleventh_Exercise.dll
