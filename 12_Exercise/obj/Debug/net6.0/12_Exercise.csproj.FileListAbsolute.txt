@@ -1,0 +1,15 @@
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\bin\Debug\net6.0\12_Exercise.exe
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\bin\Debug\net6.0\12_Exercise.deps.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\bin\Debug\net6.0\12_Exercise.runtimeconfig.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\bin\Debug\net6.0\12_Exercise.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\bin\Debug\net6.0\12_Exercise.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\obj\Debug\net6.0\12_Exercise.csproj.AssemblyReference.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\obj\Debug\net6.0\12_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\obj\Debug\net6.0\12_Exercise.AssemblyInfoInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\obj\Debug\net6.0\12_Exercise.AssemblyInfo.cs
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\obj\Debug\net6.0\12_Exercise.csproj.CoreCompileInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\obj\Debug\net6.0\12_Exercise.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\obj\Debug\net6.0\refint\12_Exercise.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\obj\Debug\net6.0\12_Exercise.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\obj\Debug\net6.0\12_Exercise.genruntimeconfig.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\12_Exercise\obj\Debug\net6.0\ref\12_Exercise.dll
