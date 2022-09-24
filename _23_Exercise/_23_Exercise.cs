@@ -21,7 +21,7 @@ namespace _23_Exercise
 
 
             if (videoCards > processors)
-            {
+            { 
                 totalPrice -= (totalPrice * 0.15);
             }
 
@@ -36,6 +36,8 @@ namespace _23_Exercise
                 Console.WriteLine($"Not enough money! You need {remainingMoney.ToString("0.00")} leva more!");
             }
             
+
+
         }
     }
 }
