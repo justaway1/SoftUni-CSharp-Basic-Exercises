@@ -1,0 +1,15 @@
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\bin\Debug\net6.0\NumbersN.exe
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\bin\Debug\net6.0\NumbersN.deps.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\bin\Debug\net6.0\NumbersN.runtimeconfig.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\bin\Debug\net6.0\NumbersN.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\bin\Debug\net6.0\NumbersN.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\obj\Debug\net6.0\NumbersN.csproj.AssemblyReference.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\obj\Debug\net6.0\NumbersN.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\obj\Debug\net6.0\NumbersN.AssemblyInfoInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\obj\Debug\net6.0\NumbersN.AssemblyInfo.cs
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\obj\Debug\net6.0\NumbersN.csproj.CoreCompileInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\obj\Debug\net6.0\NumbersN.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\obj\Debug\net6.0\refint\NumbersN.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\obj\Debug\net6.0\NumbersN.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\obj\Debug\net6.0\NumbersN.genruntimeconfig.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\NumbersN\obj\Debug\net6.0\ref\NumbersN.dll
