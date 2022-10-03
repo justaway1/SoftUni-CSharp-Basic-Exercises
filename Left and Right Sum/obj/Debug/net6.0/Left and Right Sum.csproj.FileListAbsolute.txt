@@ -1,0 +1,15 @@
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\bin\Debug\net6.0\Left and Right Sum.exe
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\bin\Debug\net6.0\Left and Right Sum.deps.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\bin\Debug\net6.0\Left and Right Sum.runtimeconfig.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\bin\Debug\net6.0\Left and Right Sum.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\bin\Debug\net6.0\Left and Right Sum.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\obj\Debug\net6.0\Left and Right Sum.csproj.AssemblyReference.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\obj\Debug\net6.0\Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\obj\Debug\net6.0\Left and Right Sum.AssemblyInfoInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\obj\Debug\net6.0\Left and Right Sum.AssemblyInfo.cs
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\obj\Debug\net6.0\Left and Right Sum.csproj.CoreCompileInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\obj\Debug\net6.0\Left and Right Sum.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\obj\Debug\net6.0\refint\Left and Right Sum.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\obj\Debug\net6.0\Left and Right Sum.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\obj\Debug\net6.0\Left and Right Sum.genruntimeconfig.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Left and Right Sum\obj\Debug\net6.0\ref\Left and Right Sum.dll
