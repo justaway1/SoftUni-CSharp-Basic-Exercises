@@ -1,0 +1,15 @@
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\bin\Debug\net6.0\EvenPowers.exe
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\bin\Debug\net6.0\EvenPowers.deps.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\bin\Debug\net6.0\EvenPowers.runtimeconfig.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\bin\Debug\net6.0\EvenPowers.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\bin\Debug\net6.0\EvenPowers.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\obj\Debug\net6.0\EvenPowers.csproj.AssemblyReference.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\obj\Debug\net6.0\EvenPowers.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\obj\Debug\net6.0\EvenPowers.AssemblyInfoInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\obj\Debug\net6.0\EvenPowers.AssemblyInfo.cs
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\obj\Debug\net6.0\EvenPowers.csproj.CoreCompileInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\obj\Debug\net6.0\EvenPowers.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\obj\Debug\net6.0\refint\EvenPowers.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\obj\Debug\net6.0\EvenPowers.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\obj\Debug\net6.0\EvenPowers.genruntimeconfig.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\EvenPowers\obj\Debug\net6.0\ref\EvenPowers.dll
