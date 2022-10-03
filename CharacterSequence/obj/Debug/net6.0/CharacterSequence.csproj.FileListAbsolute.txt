@@ -1,0 +1,15 @@
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\bin\Debug\net6.0\CharacterSequence.exe
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\bin\Debug\net6.0\CharacterSequence.deps.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\bin\Debug\net6.0\CharacterSequence.runtimeconfig.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\bin\Debug\net6.0\CharacterSequence.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\bin\Debug\net6.0\CharacterSequence.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\obj\Debug\net6.0\CharacterSequence.csproj.AssemblyReference.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\obj\Debug\net6.0\CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\obj\Debug\net6.0\CharacterSequence.AssemblyInfoInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\obj\Debug\net6.0\CharacterSequence.AssemblyInfo.cs
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\obj\Debug\net6.0\CharacterSequence.csproj.CoreCompileInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\obj\Debug\net6.0\CharacterSequence.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\obj\Debug\net6.0\refint\CharacterSequence.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\obj\Debug\net6.0\CharacterSequence.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\obj\Debug\net6.0\CharacterSequence.genruntimeconfig.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\CharacterSequence\obj\Debug\net6.0\ref\CharacterSequence.dll
