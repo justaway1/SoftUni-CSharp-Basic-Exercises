@@ -1,0 +1,17 @@
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\bin\Debug\net6.0\Microsoft Learning.exe
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\bin\Debug\net6.0\Microsoft Learning.deps.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\bin\Debug\net6.0\Microsoft Learning.runtimeconfig.json
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\bin\Debug\net6.0\Microsoft Learning.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\bin\Debug\net6.0\Microsoft Learning.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\Microsoft Learning.csproj.AssemblyReference.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\Microsoft Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\Microsoft Learning.AssemblyInfoInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\Microsoft Learning.AssemblyInfo.cs
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\Microsoft Learning.csproj.CoreCompileInputs.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\Microsoft Learning.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\refint\Microsoft Learning.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\Microsoft Learning.pdb
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\Microsoft Learning.genruntimeconfig.cache
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\ref\Microsoft Learning.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\bin\Debug\net6.0\Humanizer.dll
+D:\OneDrive\Работен плот\SoftUni---C-Basic-Exercises\Microsoft Learning\obj\Debug\net6.0\Microsoft Learning.csproj.CopyComplete
